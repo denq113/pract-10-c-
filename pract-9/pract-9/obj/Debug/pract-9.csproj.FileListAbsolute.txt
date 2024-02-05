@@ -1,0 +1,11 @@
+C:\Users\denjl\source\repos\pract-9\pract-9\bin\Debug\pract-9.exe.config
+C:\Users\denjl\source\repos\pract-9\pract-9\bin\Debug\pract-9.exe
+C:\Users\denjl\source\repos\pract-9\pract-9\bin\Debug\pract-9.pdb
+C:\Users\denjl\source\repos\pract-9\pract-9\obj\Debug\pract-9.csproj.AssemblyReference.cache
+C:\Users\denjl\source\repos\pract-9\pract-9\obj\Debug\pract_9.Form1.resources
+C:\Users\denjl\source\repos\pract-9\pract-9\obj\Debug\pract_9.Form2.resources
+C:\Users\denjl\source\repos\pract-9\pract-9\obj\Debug\pract_9.Properties.Resources.resources
+C:\Users\denjl\source\repos\pract-9\pract-9\obj\Debug\pract-9.csproj.GenerateResource.cache
+C:\Users\denjl\source\repos\pract-9\pract-9\obj\Debug\pract-9.csproj.CoreCompileInputs.cache
+C:\Users\denjl\source\repos\pract-9\pract-9\obj\Debug\pract-9.exe
+C:\Users\denjl\source\repos\pract-9\pract-9\obj\Debug\pract-9.pdb
